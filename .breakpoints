@@ -1,0 +1,26 @@
+{
+  "files": {
+    "Main.java": [
+      {
+        "id": "d397fbf3-9cc9-4389-ae42-c446527132b3",
+        "line": 4,
+        "version": 28677,
+        "index": 58
+      },
+      {
+        "id": "3f088b5f-e05f-422d-b5ae-c85eeb9a3705",
+        "line": 842,
+        "version": 28677,
+        "index": 43745
+      }
+    ],
+    "Minigames/RIDDLES/3.txt": [
+      {
+        "id": "038bd60a-6e76-4921-9b12-b51f0d5116d2",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ]
+  }
+}

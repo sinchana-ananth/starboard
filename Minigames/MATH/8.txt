@@ -1,0 +1,1 @@
+Complete the pattern: 9 20 31 __ __,A. 43 55,B. 42 53,C. 41 51,D. 44 57

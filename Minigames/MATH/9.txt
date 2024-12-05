@@ -1,0 +1,1 @@
+What is the factorial of 6?,A. 360,B. 720,C. 36,D. 1
